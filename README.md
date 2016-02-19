@@ -1,0 +1,2 @@
+# SectionAdapter
+以区块的形式组织RecyclerView中多类型条目展示的问题
